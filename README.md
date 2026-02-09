@@ -31,7 +31,7 @@ Live Profile Link: https://tryhackme.com/p/cozyhacker
 |---------------------|--------------|---------------|
 | Metasploit          | Offensive    | ✅ Completed   |
 | Pre Security        | Basics       | ✅ Completed   |
-| SOC Level 1         | Defensive    | 🔄 In Progress |
+| Cybersecurity(101)  | Fundamentals | 🔄 In Progress |
 
 ---
 
